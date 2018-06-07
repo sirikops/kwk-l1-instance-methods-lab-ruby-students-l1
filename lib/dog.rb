@@ -5,6 +5,7 @@ class Dog
     @bark=bark
     @sit=sit
     
+  
     
     
   
