@@ -10,6 +10,15 @@ class Dog
     end
     def bark=(bark)
       @bark=bark
+    end
+    
+    def sit
+      @sit=sit
+    end
+    def sit=(sit)
+      @sit=sit
+    end
+    
       
     
     
