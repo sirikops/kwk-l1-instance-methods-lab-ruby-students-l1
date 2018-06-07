@@ -19,7 +19,8 @@ class Dog
       @sit=sit
     end
      
-     
+     dog1 = Dog.new("Woof!")
+     dog2 = Dog.new()
       
     
     
