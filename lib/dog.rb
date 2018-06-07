@@ -3,6 +3,7 @@ class Dog
   
   def initialize(bark, sit)
     @bark=bark
+    @
     
     
   
