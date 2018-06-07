@@ -1,7 +1,7 @@
 # dog.rb
 class Dog
   
-  def initialize()
+  def initialize(#bark, #sit)
 
 
 
