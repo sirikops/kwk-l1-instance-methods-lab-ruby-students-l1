@@ -18,7 +18,8 @@ class Dog
     def sit=(sit)
       @sit=sit
     end
-    
+     
+     
       
     
     
