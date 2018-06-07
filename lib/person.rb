@@ -19,4 +19,4 @@ class Person
     end
   end
   
-  person1
+  person1 = Person.new("Hello World!", "The Person is walking.")
