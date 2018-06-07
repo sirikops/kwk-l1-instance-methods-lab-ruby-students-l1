@@ -18,3 +18,5 @@ class Person
       @walk=walk
     end
   end
+  
+  person1
