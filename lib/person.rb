@@ -16,3 +16,5 @@ class Person
     end
     def walk=(walk)
       @walk=walk
+    end
+  end
